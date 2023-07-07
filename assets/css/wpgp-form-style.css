@@ -74,3 +74,8 @@
 .wpgp-pagination {
 	text-align: center;
 }
+
+.wpgp-pending-post img {
+    max-width: 100%;
+    height: auto;
+}
